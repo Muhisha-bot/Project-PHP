@@ -1,0 +1,6 @@
+<? php
+$txt="Hello world";
+$number=50;
+
+echo $txt;
+?>
